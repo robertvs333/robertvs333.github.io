@@ -1,5 +1,5 @@
 ---
-title: "Course Overview"
+title: "Overview of all courses"
 listing:
   - id: q1-list
     contents: courses.yml
