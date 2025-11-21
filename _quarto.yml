@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs # Use 'docs' if using the manual GitHub Pages method, or omit for Actions
+
+website:
+  title: "Notes Hub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - icon: github
+        href: https://github.com/robertvs333
+
+format:
+  html:
+    theme: cosmo      # Options: cosmo, darkly, flatly, journal, litera...
+    css: styles.css   # Optional: if you want custom colors
+    toc: false        # Table of contents usually isn't needed on a hub landing page

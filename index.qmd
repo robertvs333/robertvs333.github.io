@@ -1,0 +1,29 @@
+---
+title: "Course Overview"
+listing:
+  - id: q1-list
+    contents: courses.yml
+    type: table
+    fields: [title, subtitle, path]
+    include:
+      quartile: "2025-Q1"   # <--- Only shows items with this exact string
+    sort: title
+    
+  - id: q2-list
+    contents: courses.yml
+    type: table
+    fields: [title, subtitle, path]
+    include:
+      quartile: "2025-Q2"
+    sort: title
+---
+
+## Academic Year 2025-2026
+
+### Quartile 1
+:::{#q1-list}
+:::
+
+### Quartile 2
+:::{#q2-list}
+:::
