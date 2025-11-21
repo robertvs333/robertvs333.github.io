@@ -2,3 +2,8 @@
   subtitle: "5SMC0"
   path: https://robertvs333.github.io/5SMC0-control-principles/
   quartile: "2025-Q2"   # <--- Add this line
+- title: "computer vision and ai"
+  subtitle: "5LSH0"
+  quartile: "2025-Q2"
+  path: https://robertvs333.github.io/computer-vision-and-ai/
+  image: images/default.png
