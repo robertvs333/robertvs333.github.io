@@ -13,3 +13,9 @@
   quartile: "2025-Q3"
   path: https://robertvs333.github.io/engineering-optimization/
   image: images/default.png
+
+- title: "Control Engineering"
+  subtitle: "4CM00"
+  quartile: "2026-Q1"
+  path: https://robertvs333.github.io/control-engineering/
+  image: images/default.png
